@@ -1,5 +1,5 @@
 {
-  "name": "@capacitor-community/http",
+  "name": "cxm-capacitor-http",
   "version": "1.4.1",
   "description": "A native HTTP plugin for CORS-free requests and file transfers",
   "main": "dist/plugin.cjs.js",
@@ -63,9 +63,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/capacitor-community/http"
+    "url": "https://github.com/pranavagiligar/cxm-capacitor-http"
   },
   "bugs": {
-    "url": "https://github.com/capacitor-community/http/issues"
+    "url": "https://github.com/pranavagiligar/cxm-capacitor-http/issues"
   }
 }
