@@ -45,7 +45,7 @@
     "dist/",
     "ios/",
     "android/",
-    "CapacitorCommunityHttp.podspec"
+    "CxmCapacitorHttp.podspec"
   ],
   "keywords": [
     "capacitor",

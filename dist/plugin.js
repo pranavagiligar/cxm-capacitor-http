@@ -1,4 +1,4 @@
-var capacitorCommunityHttp = (function (exports, core) {
+var cxmCapacitorHttp = (function (exports, core) {
   'use strict';
 
   const Http = core.registerPlugin('Http', {
